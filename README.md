@@ -1,30 +1,30 @@
 # Frontend-interview-Questions
 
-1:Write a polyfill for bind function.
+1: Write a polyfill for bind function.
 
-2:Given an expression string exp , write a program to examine whether the pairs and the orders of “{“,”}”,”(“,”)”,”[“,”]” are correct in exp.Example: Input: expz =       [()]{}{[()()]()} Output: Balanced Input: exp = “[(])” Output: Not Balanced",
+2: Given an expression string exp , write a program to examine whether the pairs and the orders of “{“,”}”,”(“,”)”,”[“,”]” are correct in exp.Example: Input: expz =       [()]{}{[()()]()} Output: Balanced Input: exp = “[(])” Output: Not Balanced",
 
-3:What is the output of below program and Explain about your outputfor (var i = 1; i < 5; i++) { setTimeout(() => console.log(i), 1000) }
+3: What is the output of below program and Explain about your outputfor (var i = 1; i < 5; i++) { setTimeout(() => console.log(i), 1000) }
 
-4:Write a program for debounce function.
+4: Write a program for debounce function.
 
-5:What is Doctype?
+5: What is Doctype?
 
-6:How many types of storage?
+6: How many types of storage?
 
-7:If there is a for loop running over some time and your browser is not responding on that particular time. What will you do to make browser available and always         responding to the user?
+7: If there is a for loop running over some time and your browser is not responding on that particular time. What will you do to make browser available and always         responding to the user?
 
-8:What is Service worker
+8: What is Service worker
 
-9:What is Defer and async
+9: What is Defer and async
 
-10:What is box model
+10: What is box model
 
-11:What is the difference between inline vs inline-block
+11: What is the difference between inline vs inline-block
 
-12:What is the difference between absolute vs relative position
+12: What is the difference between absolute vs relative position
 
-13:How can you align a div at center
+13: How can you align a div at center
 
 14:What is the difference between svg vs canvas
 
