@@ -26,29 +26,29 @@
 
 13: How can you align a div at center
 
-14:What is the difference between svg vs canvas
+14: What is the difference between svg vs canvas
 
-15:What is pseudo-class
+15: What is pseudo-class
 
-16:What is Hoisting
+16: What is Hoisting
 
-17:What is difference between function expression and function declaration
+17: What is difference between function expression and function declaration
 
-18:if(i===1 && i === 2 && i === 3) console.log(“yes”) else console.log(“yes”) What will you implement " i " so that we always get “yes”
+18: if(i===1 && i === 2 && i === 3) console.log(“yes”) else console.log(“yes”) What will you implement " i " so that we always get “yes”
 
-19:What is Promise, Why we should have to use it instead of call back
+19: What is Promise, Why we should have to use it instead of call back
 
-20:What is Prototype inheritance
+20: What is Prototype inheritance
 
-21:What is the prototype chain
+21: What is the prototype chain
 
-22:What is the difference between __proto__ vs prototype
+22: What is the difference between __proto__ vs prototype
 
-23:Write a program for shallow compare vs deep compare
+23: Write a program for shallow compare vs deep compare
 
-24:What is the difference between Shallow copy vs Deep copy
+24: What is the difference between Shallow copy vs Deep copy
 
-25:What is the difference between Object.create vs new
+25: What is the difference between Object.create vs new
 
 26:What the multiple ways to create object
 
