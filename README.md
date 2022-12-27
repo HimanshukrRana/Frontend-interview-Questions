@@ -50,35 +50,35 @@
 
 25: What is the difference between Object.create vs new
 
-26:What the multiple ways to create object
+26: What the multiple ways to create object
 
-27:What is the difference between forEach vs map
+27: What is the difference between forEach vs map
 
-28:Write a program for sum(1)(2)
+28: Write a program for sum(1)(2)
 
-29:What is Async await
+29: What is Async await
 
-30:What is event capturing vs event bubbling
+30: What is event capturing vs event bubbling
 
-31:How to enable event capturing
+31: How to enable event capturing
 
-32:What is the difference between prevent default vs stop propagation
+32: What is the difference between prevent default vs stop propagation
 
-33:Since both promise and setTimeout is async function which will execute first if both is available in queue at time T.
+33: Since both promise and setTimeout is async function which will execute first if both is available in queue at time T.
 
-34:what is job queue
+34: what is job queue
 
-35:ES6 feature - What is arrow function and when we have to use it, How it is different from normal function
+35: ES6 feature - What is arrow function and when we have to use it, How it is different from normal function
 
-36:What is Pure component
+36: What is Pure component
 
-37:What is Middleware
+37: What is Middleware
 
-38:Explain about Redux architecture
+38: Explain about Redux architecture
 
-39:What is Modular design pattern
+39: What is Modular design pattern
 
-40:What is CORS issue
+40: What is CORS issue
 
 41:How to improve web performance and how will you optimize code
 
