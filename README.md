@@ -80,15 +80,15 @@
 
 40: What is CORS issue
 
-41:How to improve web performance and how will you optimize code
+41: How to improve web performance and how will you optimize code
 
-42:How to design a chat system
+42: How to design a chat system
 
-43:How to design a listing page like amazon
+43: How to design a listing page like amazon
 
-44:How to design a search box
+44: How to design a search box
 
-45:How to design carousal
+45: How to design carousal
 
 46:What is props and Can we change props value
 
