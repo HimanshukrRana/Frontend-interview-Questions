@@ -90,7 +90,7 @@
 
 45: How to design carousal
 
-46:What is props and Can we change props value
+46: What is props and Can we change props value
 
 47:How will communicate between parent to child and vice versa
 
