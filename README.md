@@ -96,7 +96,7 @@
 
 48: What is your role in your current team
 
-49:Tell about any challenging work you did in the past
+49: Tell about any challenging work you did in the past
 
 50:Why do you want to join
 
