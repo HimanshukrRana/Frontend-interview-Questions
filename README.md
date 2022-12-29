@@ -94,7 +94,7 @@
 
 47: How will communicate between parent to child and vice versa
 
-48:What is your role in your current team
+48: What is your role in your current team
 
 49:Tell about any challenging work you did in the past
 
