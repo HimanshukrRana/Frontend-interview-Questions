@@ -2,7 +2,7 @@
 
 1: Write a polyfill for bind function.
 
-2:Given an expression string exp , write a program to examine whether the pairs and the orders of “{“,”}”,”(“,”)”,”[“,”]” are correct in exp.Example: Input: expz =       [()]{}{[()()]()} Output: Balanced Input: exp = “[(])” Output: Not Balanced",
+2: Given an expression string exp , write a program to examine whether the pairs and the orders of “{“,”}”,”(“,”)”,”[“,”]” are correct in exp.Example: Input: expz =       [()]{}{[()()]()} Output: Balanced Input: exp = “[(])” Output: Not Balanced",
 
 3: What is the output of below program and Explain about your outputfor (var i = 1; i < 5; i++) { setTimeout(() => console.log(i), 1000) }
 
