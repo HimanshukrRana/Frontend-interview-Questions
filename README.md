@@ -100,5 +100,5 @@
 
 50: Why do you want to join
 
-51:If there is 4 property in a location in one property almost 90% rooms or bed sold out but in other 3 only 10% sold out, how can you increase the sell.
+51: If there is 4 property in a location in one property almost 90% rooms or bed sold out but in other 3 only 10% sold out, how can you increase the sell.
 
