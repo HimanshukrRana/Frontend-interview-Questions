@@ -6,7 +6,7 @@
 
 3: What is the output of below program and Explain about your outputfor (var i = 1; i < 5; i++) { setTimeout(() => console.log(i), 1000) }
 
-4:Write a program for debounce function.
+4: Write a program for debounce function.
 
 5: What is Doctype?
 
