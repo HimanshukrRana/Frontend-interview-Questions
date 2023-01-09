@@ -10,7 +10,7 @@
 
 5: What is Doctype?
 
-6:How many types of storage?
+6: How many types of storage?
 
 7: If there is a for loop running over some time and your browser is not responding on that particular time. What will you do to make browser available and always         responding to the user?
 
