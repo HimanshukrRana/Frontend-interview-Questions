@@ -16,7 +16,7 @@
 
 8: What is Service worker
 
-9: What is Defer and async
+9:What is Defer and async
 
 10: What is box model
 
