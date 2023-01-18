@@ -1,6 +1,6 @@
 # Frontend-interview-Questions
 
-1: Write a polyfill for bind function in JavaScript.
+1: Write a polyfill for bind function in React.
 
 2: Given an expression string exp , write a program to examine whether the pairs and the orders of “{“,”}”,”(“,”)”,”[“,”]” are correct in exp.Example: Input: expz =       [()]{}{[()()]()} Output: Balanced Input: exp = “[(])” Output: Not Balanced",
 
