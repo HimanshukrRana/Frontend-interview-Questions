@@ -18,7 +18,7 @@
 
 9: What is Defer and async
 
-10: What is box model
+10: What is box model in js
 
 11: What is the difference between inline vs inline-block
 
