@@ -38,7 +38,7 @@
 
 19: What is Promise, Why we should have to use it instead of call back
 
-20: What is Prototype inheritance
+20: What is Prototype inheritance in JavaScript?
 
 21: What is the prototype chain
 
