@@ -8,7 +8,7 @@
 
 4: Write a program for debounce function.
 
-5: What is Doctype?
+5: What is Doctype in HTML?
 
 6: How many types of storage?
 
