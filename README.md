@@ -30,7 +30,7 @@
 
 15: What is pseudo-class
 
-16: What is Hoisting
+16:   What is Hoisting
 
 17: What is difference between function expression and function declaration
 
